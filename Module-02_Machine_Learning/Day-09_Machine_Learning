@@ -1,0 +1,2 @@
+This folder contains my learning notebooks from **Module-02: Machine Learning** as part of the **TASK-TNSIF AI & Machine Learning** training program.
+The notebooks cover the fundamental concepts of Machine Learning, including data preprocessing, feature engineering, encoding techniques, feature scaling, feature selection, and outlier handling. Each notebook includes both theoretical explanations and practical implementations using Python.
